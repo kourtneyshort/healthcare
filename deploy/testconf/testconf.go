@@ -26,6 +26,8 @@ import (
 )
 
 const configYAML = `
+generated_fields_path: generated_fields.yaml
+
 overall:
   organization_id: '12345678'
   folder_id: '98765321'
